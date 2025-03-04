@@ -4,44 +4,34 @@ sidebar_position: 1
 
 # Speech Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+I'm glad to have you here on my speech about Making Money with wordpress - I am thrilled for you! let's get started
 
-## Getting Started
+### Getting Started
 
-Get started by **creating a new site**.
+This website is easy to navigate, follow along as I will be referencing this website throughout my speech.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+### Who is this for?
 
-### What you'll need
+This is for anyone who wants to explore different ways of making money within the wordpress fields including freelancers, developers, entrepreneurs, and content creators.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+Whether you’re a beginner or an expert, this talk will give you actionable insights to turn your WordPress skills into a profitable business.
 
-## Generate a new site
+### Who am I?🤔
 
-Generate a new Docusaurus site using the **classic template**.
+I'm **TechWithTwin** ( [Tech With Twin](https://TechWithTwin.com) ). i.e Learn Tech With Twin
 
-The classic template will automatically be added to your project after you run the command:
+:::tip TIP
+**( Twin )** People used to call me "Twin" because I have a brother who looks identical to me, even though we're not actually twins.
+:::
+My real name is Bonface Maina and I'm a fullstack software developer with 4+ years of experience, I have a keen interest in building wordpress themes and plugins as well as just being a designer.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+![TechWithTwin Photo](/img/photo-of-techwithtwin.jpeg)
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+### Catch me on social media :
 
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- [Website](https://TechWithTwin.com)
+- [Twitter](https://x.com/techwithtwin)
+- [Github](https://github.com/techwithtwin)
+- [Linkedin](https://linkedin.com/in/techwithtwin)
+- [Instagram](https://instagram.com/techwithtwin)
+- [Youtube](https://youtube.com/@techwithwin)
