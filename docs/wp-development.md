@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # Wordpress Development
 
 Another Way to make money is by Creating:

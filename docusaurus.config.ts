@@ -72,7 +72,7 @@ const config: Config = {
           type: "docSidebar",
           sidebarId: "tutorialSidebar",
           position: "left",
-          label: "Tutorial",
+          label: "Get Started",
         },
         {
           href: "https://github.com/techwithtwin/making-money-using-wordpress",

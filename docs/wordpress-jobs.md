@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Wordpress Jobs
 
 This is the Most Straight forward way to make money in the wordpress space.

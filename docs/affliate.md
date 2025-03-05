@@ -1,3 +1,7 @@
+---
+sidebar_position: 6
+---
+
 # Affliate Marketing
 
 Did you know you don't need to know how to design wordpress or develop to earn?

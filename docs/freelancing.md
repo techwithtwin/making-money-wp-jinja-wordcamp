@@ -1,3 +1,7 @@
+---
+sidebar_position: 4
+---
+
 # Freelancing
 
 This is Offering services online to clients, you might not even know the client.
