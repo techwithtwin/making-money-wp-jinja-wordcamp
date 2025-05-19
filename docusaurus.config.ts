@@ -18,7 +18,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "techwithtwin", // Usually your GitHub org/user name.
-  projectName: "making-money-using-wordpress", // Usually your repo name.
+  projectName: "making-money-wp-jinja-wordcamp", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -60,12 +60,12 @@ const config: Config = {
   themeConfig: {
     // Replace with your project's social card
     image:
-      "img/learn-how-to-make-money-with-wordpress-by-techwithtwin-at-mukono-wp-wordcamp-event-2025.jpg",
+      "img/learn-how-to-make-money-with-wordpress-by-techwithtwin-at-jinja-wp-wordcamp-event-2025.png",
     navbar: {
       title: "Mukono WP Talk",
       logo: {
         alt: "Mukono WP Talk Logo",
-        src: "img/mukono-wp-talk-by-TechWithTwin-session-logo.jpg",
+        src: "img/jinja-wp-logo.png",
       },
       items: [
         {
@@ -75,7 +75,7 @@ const config: Config = {
           label: "Get Started",
         },
         {
-          href: "https://github.com/techwithtwin/making-money-using-wordpress",
+          href: "https://github.com/techwithtwin/making-money-wp-jinja-wordcamp",
           label: "GitHub",
           position: "right",
         },
