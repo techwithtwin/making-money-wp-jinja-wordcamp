@@ -50,13 +50,13 @@ Feature this [Travel Theme by shinetheme](https://themeforest.net/item/traveler-
 What do you see? 🤯🤯🤯🤯
 
 :::tip[A whooping]  
-**ugx: 5,519,078,250** 🤯🤯🤯🤯 ( 19,010 x 79 x 3675 )
+**ugx: 5,519,078,250** 🤯🤯🤯🤯 ( 19,010 x 79 x 3675 ) -> **5.5 billion ugx**
 
-**ksh: 194,031,268** 🤯🤯🤯 (19,010 x 79 x 129.2)
+**ksh: 194,031,268** 🤯🤯🤯 (19,010 x 79 x 129.2) -> **194 million ksh**
 :::
 
 Yeah that's how much you can make only on one theme while you are sleeping.
 
 :::danger[Plugins as well]  
-Plugins as well do the same. Go and research and see
+Plugins as well do the same. Go and research and see.
 :::

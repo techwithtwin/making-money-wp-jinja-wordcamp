@@ -12,15 +12,19 @@ The work is generally flexible and you can work however you want and charge as m
 
 ### Website to get Freelancing Tasks
 
-1. Upwork
-2. Fiverr
-3. People Per Hour
-4. RemoteOk
-5. Freelancer.com
-6. Guru.com
-7. Behance
-8. TopTal
-9. Dribble
+1. [Upwork](https://www.upwork.com/)
+2. [Fiverr](https://www.fiverr.com/)
+3. [People Per Hour](https://www.peopleperhour.com/)
+4. [RemoteOk](https://remoteok.com/)
+5. [Freelancer.com](https://www.freelancer.com/)
+6. [Guru.com](https://www.guru.com/)
+7. [Behance](https://www.behance.net/)
+8. [Dribble](https://dribbble.com/)
+
+### Consultancy firms - ( Hires on behalf )
+
+1. [TopTal](https://www.toptal.com/)
+2. [Turing](https://www.turing.com/)
 
 ### How much can you earn? 💸💸🤑
 
@@ -43,4 +47,5 @@ IN JUST THREE DAYS
 1. WordPress Designer
 2. WordPress Migration Expert
 3. WordPress Issues Fixing
-4. Wordpress Consulting
+4. WordPress Consulting
+5. WordPress Development ( Plugins & Themes )

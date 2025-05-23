@@ -10,13 +10,13 @@ This involves creating tutorials and selling them on platforms like [Udemy](http
 
 ### Ways to Earn through tutoring
 
-1. Selling courses on online platforms
-2. Doing paid WordPress workshops
-3. Tutoring on [Youtube](https://youtube.com) and earn through adsense
+1. Selling courses on online platforms.
+2. Doing paid WordPress workshops.
+3. Tutoring on [Youtube](https://youtube.com) and earn through adsense.
 4. Earning through paid promotions - companies like [Namecheap](https://namecheap.com) would like to advertise through you and they pay alot. ( Brand Endosements )
 5. Starting your own bootcamp where you charge teaching WordPress for a period.
-6. Campus Out-reaches where you go to campuses and speak to students about WordPress and campuses will pay you.
-7. Attending paid events. Once your brand grows you will start receiving events ( paid )
+6. Campus outreach where you go to campuses and speak to students about WordPress and campuses will pay you.
+7. Attending paid events. Once your brand grows you will start receiving events ( paid ).
 
 ## Technical Writing
 

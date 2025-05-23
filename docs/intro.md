@@ -23,7 +23,7 @@ I'm **TechWithTwin** ( [Tech With Twin](https://TechWithTwin.com) ). i.e Learn T
 :::tip TIP
 **( Twin )** People used to call me "Twin" because I have a brother who looks identical to me, even though we're not actually twins.
 :::
-My real name is Bonface Maina and I'm a fullstack software developer with 4+ years of experience, I have a keen interest in building wordpress themes and plugins as well as just being a designer.
+My real name is Bonface Maina and I'm a fullstack software developer with 5+ years of experience, I have a keen interest in building wordpress themes and plugins. I'm also a graphics designer.
 
 ![TechWithTwin Photo](/img/photo-of-techwithtwin.jpeg)
 
@@ -35,3 +35,4 @@ My real name is Bonface Maina and I'm a fullstack software developer with 4+ yea
 - [Linkedin](https://linkedin.com/in/techwithtwin)
 - [Instagram](https://instagram.com/techwithtwin)
 - [Youtube](https://youtube.com/@techwithwin)
+- [Tiktok](https://tiktok.com/@techwithtwin)

@@ -12,6 +12,8 @@ The sky is the limit, do your best and all will be well.
 
 Some of the highlighted ways to make money require alot of determination and will power to see them through.
 
+But you can do it 💪💪.
+
 :::
 
 Thank you, and all the best!
