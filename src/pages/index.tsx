@@ -35,7 +35,7 @@ export default function Home(): ReactNode {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Discover practical ways to turn WordPress into a profitable business! Learn how to get hired for WordPress jobs, offer freelancing services, sell themes & plugins, monetize content, and build a sustainable income beyond blogging. Insights from WordCamp Mukono 2025"
+      description="Discover practical ways to turn WordPress into a profitable business! Learn how to get hired for WordPress jobs, offer freelancing services, sell themes & plugins, monetize content, and build a sustainable income beyond blogging. Insights from Jinja WordCamp 2025"
     >
       <HomepageHeader />
       <main>

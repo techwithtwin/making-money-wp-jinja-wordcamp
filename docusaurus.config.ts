@@ -62,9 +62,9 @@ const config: Config = {
     image:
       "img/learn-how-to-make-money-with-wordpress-by-techwithtwin-at-jinja-wp-wordcamp-event-2025.png",
     navbar: {
-      title: "Mukono WP Talk",
+      title: "Jinja WP Talk",
       logo: {
-        alt: "Mukono WP Talk Logo",
+        alt: "Jinja WP Talk Logo",
         src: "img/jinja-wp-logo.png",
       },
       items: [
